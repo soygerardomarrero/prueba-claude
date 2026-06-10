@@ -1,0 +1,7 @@
+{
+  "model": "claude-instant",
+  "temperature": 0.2,
+  "max_tokens": 800,
+  "top_p": 0.95,
+  "notes": "Modelo recomendado para mejor ratio eficiencia-calidad en Claude Code. Ajusta temperature para creatividad."
+}
